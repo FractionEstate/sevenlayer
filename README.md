@@ -46,6 +46,12 @@ Recommended starting points:
 - [`knowledge-base/01-foundations/seven-layer-model.md`](knowledge-base/01-foundations/seven-layer-model.md) — trust decomposition across the stack
 - [`knowledge-base/glossary.md`](knowledge-base/glossary.md) — fast terminology reference
 
+Validate the documentation graph before editing it:
+
+```bash
+python build_pdf.py validate
+```
+
 ## Formats
 
 | File | What it is |

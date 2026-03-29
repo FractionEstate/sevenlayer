@@ -14,6 +14,7 @@ This knowledge base converts the book-length manuscript into navigable, topic-or
 - Jump directly to a layer-specific document when working on a narrow architectural or implementation question.
 - Use the glossary for fast terminology lookup.
 - Use the bibliography when you need to trace a claim back to cited literature.
+- Run `python build_pdf.py validate` from the repository root after editing links or navigation so broken local references are caught early.
 
 ## Recommended Reading Paths
 
