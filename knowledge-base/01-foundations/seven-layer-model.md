@@ -69,10 +69,10 @@ The field is crossing three frontiers in sequence:
 ## Related Topics
 
 - [What Are ZK Proofs?](what-are-zk-proofs.md) — foundational concepts, history, and the three properties
-- [Layer 1: The Setup](../02-setup/README.md) — trusted vs. transparent setup ceremonies
-- [Layer 2: The Language](../03-language/README.md) — DSLs, circuit programming, and under-constrained bugs
-- [Layer 3: The Witness](../04-witness/README.md) — execution traces and side-channel risks
-- [Layer 4: The Arithmetization](../05-arithmetization/README.md) — polynomial encoding of computation
-- [Layer 5: The Proof System](../06-proof-system/README.md) — SNARKs, STARKs, and folding schemes
-- [Layer 6: The Primitives](../07-primitives/README.md) — elliptic curves, hash functions, and commitment schemes
-- [Layer 7: The Verification](../08-verification/README.md) — on-chain verification and governance
+- [Layer 1: The Setup](../02-setup-ceremonies/trusted-setup.md) — trusted vs. transparent setup ceremonies
+- [Layer 2: The Language](../03-languages-and-compilers/languages-and-compiler-design.md) — DSLs, circuit programming, and under-constrained bugs
+- [Layer 3: The Witness](../04-witness-generation/witness-generation-and-execution-traces.md) — execution traces and side-channel risks
+- [Layer 4: The Arithmetization](../05-arithmetization/arithmetization-and-constraint-systems.md) — polynomial encoding of computation
+- [Layer 5: The Proof System](../06-proof-systems/proof-systems-recursion-and-folding.md) — SNARKs, STARKs, and folding schemes
+- [Layer 6: The Primitives](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md) — elliptic curves, hash functions, and commitment schemes
+- [Layer 7: The Verification](../08-verification/verification-governance-and-data-availability.md) — on-chain verification and governance

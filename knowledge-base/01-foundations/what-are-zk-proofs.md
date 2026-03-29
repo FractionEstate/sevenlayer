@@ -65,6 +65,6 @@ These three forces — privacy demand, scaling need, and cost collapse — form 
 ## Related Topics
 
 - [The Seven-Layer Model](seven-layer-model.md) — the framework for decomposing ZK trust assumptions
-- [Layer 1: The Setup](../02-setup/README.md) — trusted vs. transparent setup ceremonies
-- [Layer 2: The Language](../03-language/README.md) — DSLs and circuit programming
-- [Layer 6: The Primitives](../07-primitives/README.md) — cryptographic building blocks underlying ZK proofs
+- [Layer 1: The Setup](../02-setup-ceremonies/trusted-setup.md) — trusted vs. transparent setup ceremonies
+- [Layer 2: The Language](../03-languages-and-compilers/languages-and-compiler-design.md) — DSLs and circuit programming
+- [Layer 6: The Primitives](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md) — cryptographic building blocks underlying ZK proofs

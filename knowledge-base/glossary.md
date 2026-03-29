@@ -132,10 +132,11 @@ This is a reference glossary for AI coding agents working on zero-knowledge proo
 
 ## See Also
 
-- [What Are ZK Proofs](./01-foundations/what-are-zk-proofs.md)
-- [Hardness Assumptions](./07-cryptographic-primitives/hardness-assumptions.md)
-- [Proof Systems Overview](./06-proof-systems/README.md)
-- [Arithmetization](./05-arithmetization/README.md)
-- [Setup Ceremonies](./02-setup-ceremonies/README.md)
-- [Privacy Technologies](./09-privacy-technologies/README.md)
-- [zkVMs](./11-zkvms/README.md)
+- [What Are ZK Proofs?](./01-foundations/what-are-zk-proofs.md)
+- [The Seven-Layer Model](./01-foundations/seven-layer-model.md)
+- [Cryptographic Primitives and Hardness Assumptions](./07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+- [Proof Systems, Recursion, and Folding](./06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Arithmetization and Constraint Systems](./05-arithmetization/arithmetization-and-constraint-systems.md)
+- [Trusted Setup Ceremonies](./02-setup-ceremonies/trusted-setup.md)
+- [Privacy-Enhancing Technologies](./09-privacy-technologies/privacy-enhancing-technologies.md)
+- [zkVM Landscape](./11-zkvms/zkvm-landscape.md)
