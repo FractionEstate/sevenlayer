@@ -2,6 +2,12 @@
 
 This knowledge base converts the book-length manuscript into navigable, topic-oriented reference files for AI coding agents, engineers, and researchers working on zero-knowledge systems.
 
+## Start Here if You Are an AI Coding Agent
+
+- [AI Coding Agent Quickstart](agent-quickstart.md) — task-oriented entrypoint for finding the right reference file quickly
+- [Glossary](glossary.md) — fast terminology lookup
+- [The Seven-Layer Model](01-foundations/seven-layer-model.md) — the repository's core trust-decomposition framework
+
 ## How to Use This Knowledge Base
 
 - Start with the foundations if you are new to the repository or to zero-knowledge systems.

@@ -41,6 +41,7 @@ This repository now includes a modular knowledge base for AI coding agents in [`
 Recommended starting points:
 
 - [`knowledge-base/README.md`](knowledge-base/README.md) — top-level navigation and usage guide
+- [`knowledge-base/agent-quickstart.md`](knowledge-base/agent-quickstart.md) — task-oriented quickstart for AI coding agents
 - [`knowledge-base/01-foundations/what-are-zk-proofs.md`](knowledge-base/01-foundations/what-are-zk-proofs.md) — core concepts and history
 - [`knowledge-base/01-foundations/seven-layer-model.md`](knowledge-base/01-foundations/seven-layer-model.md) — trust decomposition across the stack
 - [`knowledge-base/glossary.md`](knowledge-base/glossary.md) — fast terminology reference
