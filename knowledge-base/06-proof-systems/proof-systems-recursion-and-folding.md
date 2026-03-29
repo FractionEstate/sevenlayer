@@ -574,6 +574,9 @@ These are the questions of Layer 6. The seal works because certain mathematical 
 
 ## Related Topics
 
+- [Trusted Setup Ceremonies](../02-setup-ceremonies/trusted-setup.md)
+- [Witness Generation and Execution Traces](../04-witness-generation/witness-generation-and-execution-traces.md)
 - [Arithmetization and Constraint Systems](../05-arithmetization/arithmetization-and-constraint-systems.md)
 - [Cryptographic Primitives and Hardness Assumptions](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md)
 - [Trust Decomposition and System Architecture](../10-architecture/trust-decomposition-and-system-architecture.md)

@@ -808,6 +808,9 @@ From this point forward, the magician-and-audience framing will recede. Layers 5
 
 ## Related Topics
 
+- [ZK Languages and Compiler Design](../03-languages-and-compilers/languages-and-compiler-design.md)
 - [Witness Generation and Execution Traces](../04-witness-generation/witness-generation-and-execution-traces.md)
 - [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Cryptographic Primitives and Hardness Assumptions](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md)
 - [zkVM Landscape](../11-zkvms/zkvm-landscape.md)

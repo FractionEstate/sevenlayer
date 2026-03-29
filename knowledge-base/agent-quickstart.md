@@ -36,6 +36,16 @@ This page is the fastest entrypoint into the repository's knowledge base when yo
 - [Proof Systems, Recursion, and Folding](06-proof-systems/proof-systems-recursion-and-folding.md)
 - [Cryptographic Primitives and Hardness Assumptions](07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
 
+### I need field or curve selection guidance
+- [Elliptic Curves and Field Selection](02-setup-ceremonies/curves-and-fields.md)
+- [The ADOPT Framework for Setup Decisions](02-setup-ceremonies/adopt-framework.md)
+- [Cryptographic Primitives and Hardness Assumptions](07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+
+### I need post-quantum or quantum-readiness analysis
+- [Cryptographic Primitives and Hardness Assumptions](07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+- [Trust Decomposition and System Architecture](10-architecture/trust-decomposition-and-system-architecture.md)
+- [Open Questions and Research Frontiers](14-open-questions/open-questions-and-research-frontiers.md)
+
 ### I need verification, governance, or rollup context
 - [Verification, Governance, and Data Availability](08-verification/verification-governance-and-data-availability.md)
 - [Trust Decomposition and System Architecture](10-architecture/trust-decomposition-and-system-architecture.md)
@@ -45,9 +55,19 @@ This page is the fastest entrypoint into the repository's knowledge base when yo
 - [Privacy-Enhancing Technologies](09-privacy-technologies/privacy-enhancing-technologies.md)
 - [Midnight Case Study](12-midnight/midnight-case-study.md)
 
+### I need performance trade-offs or benchmarking context
+- [Witness Generation and Execution Traces](04-witness-generation/witness-generation-and-execution-traces.md)
+- [Trust Decomposition and System Architecture](10-architecture/trust-decomposition-and-system-architecture.md)
+- [zkVM Landscape](11-zkvms/zkvm-landscape.md)
+
 ### I need ecosystem / product / strategy context
 - [zkVM Landscape](11-zkvms/zkvm-landscape.md)
 - [ZK Market Landscape](13-market/zk-market-landscape.md)
+- [Open Questions and Research Frontiers](14-open-questions/open-questions-and-research-frontiers.md)
+
+### I need formal verification or security-proof context
+- [Under-Constrained Circuits and Disclosure Boundaries](03-languages-and-compilers/under-constrained-circuits-and-disclosure-boundaries.md)
+- [Trust Decomposition and System Architecture](10-architecture/trust-decomposition-and-system-architecture.md)
 - [Open Questions and Research Frontiers](14-open-questions/open-questions-and-research-frontiers.md)
 
 ### I need to trace claims or source material

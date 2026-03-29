@@ -419,6 +419,11 @@ The recording is where the real cost lives. And it is where the real vulnerabili
 
 ## Related Topics
 
+- [Trusted Setup Ceremonies](../02-setup-ceremonies/trusted-setup.md)
 - [Under-Constrained Circuits and Disclosure Boundaries](../03-languages-and-compilers/under-constrained-circuits-and-disclosure-boundaries.md)
 - [Witness Generation and Execution Traces](../04-witness-generation/witness-generation-and-execution-traces.md)
+- [Arithmetization and Constraint Systems](../05-arithmetization/arithmetization-and-constraint-systems.md)
+- [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Cryptographic Primitives and Hardness Assumptions](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md)
 - [The Seven-Layer Model](../01-foundations/seven-layer-model.md)

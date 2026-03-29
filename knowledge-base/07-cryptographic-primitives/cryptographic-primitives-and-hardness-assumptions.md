@@ -530,6 +530,9 @@ The physical laws are set. The field is chosen, the commitment scheme determined
 
 ## Related Topics
 
+- [Trusted Setup Ceremonies](../02-setup-ceremonies/trusted-setup.md)
 - [Elliptic Curves and Field Selection](../02-setup-ceremonies/curves-and-fields.md)
 - [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md)
+- [Open Questions and Research Frontiers](../14-open-questions/open-questions-and-research-frontiers.md)
 - [Glossary](../glossary.md)

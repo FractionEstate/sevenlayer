@@ -112,3 +112,7 @@ This is weaker than trusting a single entity. But it is not zero trust. The accu
 - [Transparent Setup](transparent-setup.md) — the alternative that requires no ceremony
 - [Elliptic Curves and Field Selection](curves-and-fields.md) — the mathematical foundations underlying the SRS
 - [The ADOPT Framework](adopt-framework.md) — evaluating ceremony quality across five properties
+- [ZK Languages and Compiler Design](../03-languages-and-compilers/languages-and-compiler-design.md) — where ceremony choices begin constraining developer tooling
+- [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md) — the proof families that inherit setup assumptions
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md) — how setup assumptions surface in deployed systems
+- [The Seven-Layer Model](../01-foundations/seven-layer-model.md) — the full stack view of trust decomposition

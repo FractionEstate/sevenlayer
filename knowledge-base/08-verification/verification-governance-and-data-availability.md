@@ -480,5 +480,8 @@ Layer 7 is the last layer. The seven-layer tour -- from setup ceremony to on-cha
 ## Related Topics
 
 - [The Seven-Layer Model](../01-foundations/seven-layer-model.md)
+- [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Cryptographic Primitives and Hardness Assumptions](../07-cryptographic-primitives/cryptographic-primitives-and-hardness-assumptions.md)
 - [Privacy-Enhancing Technologies](../09-privacy-technologies/privacy-enhancing-technologies.md)
 - [Trust Decomposition and System Architecture](../10-architecture/trust-decomposition-and-system-architecture.md)
+- [Open Questions and Research Frontiers](../14-open-questions/open-questions-and-research-frontiers.md)
