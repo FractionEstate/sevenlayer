@@ -172,3 +172,8 @@ The recording is where the real cost lives. And it is where the real vulnerabili
 - [ZK Languages and Compiler Design](languages-and-compiler-design.md)
 - [Witness Generation and Execution Traces](../04-witness-generation/witness-generation-and-execution-traces.md)
 - [Arithmetization and Constraint Systems](../05-arithmetization/arithmetization-and-constraint-systems.md)
+- [Proof Systems, Recursion, and Folding](../06-proof-systems/proof-systems-recursion-and-folding.md)
+- [Verification, Governance, and Data Availability](../08-verification/verification-governance-and-data-availability.md)
+- [Privacy-Enhancing Technologies](../09-privacy-technologies/privacy-enhancing-technologies.md)
+- [Midnight Case Study](../12-midnight/midnight-case-study.md)
+- [The Seven-Layer Model](../01-foundations/seven-layer-model.md)
