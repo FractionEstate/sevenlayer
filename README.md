@@ -34,6 +34,24 @@ The book includes a running example (a 4x4 Sudoku proof) that threads from progr
 
 Don't skip Chapter 2 (setup) or Chapter 10 (trust decomposition). They are the load-bearing walls.
 
+## AI Coding Agent Knowledge Base
+
+This repository now includes a modular knowledge base for AI coding agents in [`knowledge-base/`](knowledge-base/README.md). It reorganizes the full manuscript into layer-specific reference files, cross-cutting topic guides, a glossary, and a bibliography so agents can navigate the material without parsing the entire book-length document at once.
+
+Recommended starting points:
+
+- [`knowledge-base/README.md`](knowledge-base/README.md) — top-level navigation and usage guide
+- [`knowledge-base/agent-quickstart.md`](knowledge-base/agent-quickstart.md) — task-oriented quickstart for AI coding agents
+- [`knowledge-base/01-foundations/what-are-zk-proofs.md`](knowledge-base/01-foundations/what-are-zk-proofs.md) — core concepts and history
+- [`knowledge-base/01-foundations/seven-layer-model.md`](knowledge-base/01-foundations/seven-layer-model.md) — trust decomposition across the stack
+- [`knowledge-base/glossary.md`](knowledge-base/glossary.md) — fast terminology reference
+
+Validate the documentation graph before editing it:
+
+```bash
+python build_pdf.py validate
+```
+
 ## Formats
 
 | File | What it is |

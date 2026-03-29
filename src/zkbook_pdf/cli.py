@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Sequence
 
 from .latex import LatexBuildConfig, run_latex_build
+from .validate import ValidationConfig, run_validation
 
 
 def project_root() -> Path:
@@ -16,7 +17,7 @@ def project_root() -> Path:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    """Build the CLI parser for the LaTeX backend."""
+    """Build the CLI parser for the project workflows."""
 
     root = project_root()
     parser = argparse.ArgumentParser(
@@ -47,6 +48,19 @@ def build_parser() -> argparse.ArgumentParser:
     latex_parser.add_argument("--assets-dir", default=str(root))
     latex_parser.add_argument("--keep-temp", action="store_true")
 
+    validate_parser = subparsers.add_parser(
+        "validate",
+        help="Validate internal markdown links in the documentation set.",
+    )
+    validate_parser.add_argument(
+        "--docs-root",
+        default=str(root / "knowledge-base"),
+    )
+    validate_parser.add_argument(
+        "--log",
+        default=str(root / "zkbook_validate.log"),
+    )
+
     return parser
 
 
@@ -65,6 +79,14 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = normalize_cli_argv(argv)
     parser = build_parser()
     namespace = parser.parse_args(args)
+
+    if namespace.backend == "validate":
+        config = ValidationConfig(
+            project_root=project_root(),
+            docs_root=Path(namespace.docs_root).resolve(),
+            log_path=Path(namespace.log).resolve(),
+        )
+        return run_validation(config)
 
     config = LatexBuildConfig(
         source=Path(namespace.source).resolve(),
