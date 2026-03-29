@@ -130,7 +130,7 @@ This is a reference glossary for AI coding agents working on zero-knowledge proo
 
 **zkVM (Zero-Knowledge Virtual Machine)** -- A virtual processor that executes programs and automatically generates a zero-knowledge proof of correct execution.
 
-## See Also
+## Related Topics
 
 - [What Are ZK Proofs?](./01-foundations/what-are-zk-proofs.md)
 - [The Seven-Layer Model](./01-foundations/seven-layer-model.md)
